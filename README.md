@@ -19,10 +19,6 @@ Olá! Me chamo João, sou estudante de Engenharia de Software e este repositóri
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### 🐍 Snake devando meus commits
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jvansan-dev/Jvansan-dev/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 
