@@ -19,6 +19,7 @@ Olá! Me chamo João, sou estudante de Engenharia de Software e este repositóri
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Harbour](https://img.shields.io/badge/Harbour-b90619?style=flat&logo=harbour&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-2c0040?style=flat&logo=next.js#&logoColor=black)
 
 <img src="https://raw.githubusercontent.com/Jvansan-dev/Jvansan-dev/output/snake.svg" alt="Snake animation" />
 
