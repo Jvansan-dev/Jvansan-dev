@@ -4,7 +4,7 @@ Olá! Me chamo João, sou estudante de Engenharia de Software e este repositóri
 
 ## 📫 Contato
 
-- Email: jv.vansan@gmail.com
+- Email: jvansan.dev@gmail.com
 - LinkedIn: [João Victor Teixeira Vansan](https://linkedin.com/in/joão-victor-teixeira-vansan-97a579223)
 - Instagram: [@jv.vansan](https://www.instagram.com/jv.vansan/?next=%2F)
 
